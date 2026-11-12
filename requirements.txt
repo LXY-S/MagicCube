@@ -1,0 +1,2 @@
+PySide6==6.12.0
+kociemba==1.2.1
